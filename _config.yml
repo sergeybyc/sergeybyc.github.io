@@ -25,7 +25,7 @@ author:
 
 # URL settings
 url: "https://shuoske.github.io/" #
-baseurl: /shuoske
+baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
