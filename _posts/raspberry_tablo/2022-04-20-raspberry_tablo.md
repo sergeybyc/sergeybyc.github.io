@@ -2,7 +2,7 @@
 layout: post
 title:  "Raspberry Pi для работы с табло"
 date:   2022-04-20 19:24:00 +0300
-tags: [Raspberry Pi, linux, 'Школа 1298']
+tags: [Raspberry Pi, linux]
 ---
 
 - Решение для управлением табло в спортзале
