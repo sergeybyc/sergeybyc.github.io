@@ -6,9 +6,13 @@
   url: /archive/
   external: false
 
-- title: about
-  url: /about/
-  external: false # set true if you using external link, see below
+- title: tags
+  url: /tags/
+  external: false
+
+#- title: about
+#  url: /about/
+#  external: false # set true if you using external link, see below
 
 # Example:
 # - title: github
