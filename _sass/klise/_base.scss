@@ -274,8 +274,9 @@ blockquote {
 
 // Wrapper
 .wrapper {
-  max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
-  max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
+  // max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
+  // max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
+  max-width: 71%;
   position: relative;
   margin-right: auto;
   margin-left: auto;

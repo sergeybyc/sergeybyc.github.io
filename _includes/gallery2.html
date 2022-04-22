@@ -1,23 +1,14 @@
----
-layout: post
-title:  "Сочи. Отпуск"
-date:   2020-07-09 18:38:00 +0300
-# permalink: /about/
-tags: [Путешествие, Отпуск, Сочи, Красная поляна]
----
 <main class="gallery">
 	<div class="grid-sizer"></div>
-	{% for img in site.data.gallery.sochi2020.urls %}
+	{% for img in site.data.gallery.anapa.urls %}
 	<div class="grid-item">
-		<a href="{{img}}" data-fslightbox><img src="/assets/img/transparent.gif" data-original="{{img}}" alt="{{site.data.gallery.sochi2020.alt}}"></a>
+		<img src="/assets/img/transparent.gif" data-original="{{img}}" alt="{{site.data.gallery.anapa.alt}}">
 	</div>
 	{% endfor %}
-</main>
-<!-- {% include sochi.html %} -->
+</main> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="/assets/js/jquery.lazyload.js"></script>
 <script src="/assets/js/masonry.pkgd.js"></script>
-<script src="/assets/js/fslightbox.js"></script>
 
 <script>
 	var images = $('img');
@@ -32,9 +23,6 @@ tags: [Путешествие, Отпуск, Сочи, Красная полян
 
 	images.lazyload({
 		effect: "fadeIn",
-		effectTime: 1000,
-		threshold: 0,
-		delay: 5000,
 		load: function () {
 			grid.masonry('layout');
 		}
