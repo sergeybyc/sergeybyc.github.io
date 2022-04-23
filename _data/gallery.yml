@@ -77,6 +77,14 @@ crimea2019:
     - /assets/img/gallery/crimea_2019/23.jpg
     - /assets/img/gallery/crimea_2019/25.jpg
 
+newyear2019:
+    alt: New Year 2019
+    urls:
+    - /assets/img/gallery/newyear_2019/1.jpg
+    - /assets/img/gallery/newyear_2019/2.jpg
+    - /assets/img/gallery/newyear_2019/3.jpg
+    - /assets/img/gallery/newyear_2019/5.jpg
+
 georgia2017:
     alt: Georgia 2017
     urls:
@@ -118,7 +126,62 @@ georgia2017:
     - /assets/img/gallery/georgia_2017/37.jpg
     - /assets/img/gallery/georgia_2017/38.jpg
     - /assets/img/gallery/georgia_2017/39.jpg
-    
+
+winter2019:
+    alt: Winter 2019
+    urls:
+    - /assets/img/gallery/winter_2019/1.jpg
+    - /assets/img/gallery/winter_2019/2.jpg
+    - /assets/img/gallery/winter_2019/3.jpg
+    - /assets/img/gallery/winter_2019/4.jpg
+    - /assets/img/gallery/winter_2019/5.jpg
+    - /assets/img/gallery/winter_2019/6.jpg
+    - /assets/img/gallery/winter_2019/7.jpg
+    - /assets/img/gallery/winter_2019/8.jpg
+    - /assets/img/gallery/winter_2019/9.jpg
+    - /assets/img/gallery/winter_2019/10.jpg
+    - /assets/img/gallery/winter_2019/11.jpg
+    - /assets/img/gallery/winter_2019/12.jpg
+    - /assets/img/gallery/winter_2019/13.jpg
+    - /assets/img/gallery/winter_2019/15.jpg
+    - /assets/img/gallery/winter_2019/16.jpg
+    - /assets/img/gallery/winter_2019/17.jpg
+    - /assets/img/gallery/winter_2019/18.jpg
+    - /assets/img/gallery/winter_2019/19.jpg
+    - /assets/img/gallery/winter_2019/20.jpg
+    - /assets/img/gallery/winter_2019/21.jpg
+    - /assets/img/gallery/winter_2019/22.jpg
+    - /assets/img/gallery/winter_2019/23.jpg
+    - /assets/img/gallery/winter_2019/24.jpg
+    - /assets/img/gallery/winter_2019/25.jpg
+    - /assets/img/gallery/winter_2019/26.jpg
+    - /assets/img/gallery/winter_2019/27.jpg
+    - /assets/img/gallery/winter_2019/28.jpg
+    - /assets/img/gallery/winter_2019/29.jpg
+    - /assets/img/gallery/winter_2019/30.jpg
+    - /assets/img/gallery/winter_2019/31.jpg
+    - /assets/img/gallery/winter_2019/32.jpg
+    - /assets/img/gallery/winter_2019/33.jpg
+    - /assets/img/gallery/winter_2019/34.jpg
+    - /assets/img/gallery/winter_2019/35.jpg
+    - /assets/img/gallery/winter_2019/36.jpg
+    - /assets/img/gallery/winter_2019/37.jpg
+    - /assets/img/gallery/winter_2019/38.jpg
+    - /assets/img/gallery/winter_2019/39.jpg
+    - /assets/img/gallery/winter_2019/40.jpg
+    - /assets/img/gallery/winter_2019/41.jpg
+    - /assets/img/gallery/winter_2019/42.jpg
+    - /assets/img/gallery/winter_2019/43.jpg
+    - /assets/img/gallery/winter_2019/44.jpg
+    - /assets/img/gallery/winter_2019/45.jpg
+    - /assets/img/gallery/winter_2019/46.jpg
+    - /assets/img/gallery/winter_2019/47.jpg
+    - /assets/img/gallery/winter_2019/48.jpg
+    - /assets/img/gallery/winter_2019/49.jpg
+    - /assets/img/gallery/winter_2019/50.jpg
+    - /assets/img/gallery/winter_2019/51.jpg
+    - /assets/img/gallery/winter_2019/52.jpg
+    - /assets/img/gallery/winter_2019/53.jpg
 
 novogorsk20192021:
     alt: Novogorsk 2019-2021
