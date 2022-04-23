@@ -3,6 +3,16 @@ anapa2020:
     urls:
     - /assets/img/gallery/anapa_2020/1.jpg
 
+anapa2019:
+    alt: Anapa 2019
+    urls:
+    - /assets/img/gallery/anapa_2019/1.JPG
+    - /assets/img/gallery/anapa_2019/2.JPG
+    - /assets/img/gallery/anapa_2019/3.JPG
+    - /assets/img/gallery/anapa_2019/5.JPG
+    - /assets/img/gallery/anapa_2019/6.JPG
+    - /assets/img/gallery/anapa_2019/7.JPG
+
 kostomuksha:
     alt: kostomuksha
     urls:
@@ -32,6 +42,34 @@ sochi2020:
     - /assets/img/gallery/sochi_2020/17.JPG
     - /assets/img/gallery/sochi_2020/18.JPG
     - /assets/img/gallery/sochi_2020/19.JPG
+    - /assets/img/gallery/sochi_2020/20.JPG
+
+crimea2019:
+    alt: Crimea 2019
+    urls:
+    - /assets/img/gallery/crimea_2019/1.jpg
+    - /assets/img/gallery/crimea_2019/2.jpg
+    - /assets/img/gallery/crimea_2019/3.jpg
+    - /assets/img/gallery/crimea_2019/5.jpg
+    - /assets/img/gallery/crimea_2019/6.jpg
+    - /assets/img/gallery/crimea_2019/7.jpg
+    - /assets/img/gallery/crimea_2019/8.jpg
+    - /assets/img/gallery/crimea_2019/9.jpg
+    - /assets/img/gallery/crimea_2019/10.jpg
+    - /assets/img/gallery/crimea_2019/11.jpg
+    - /assets/img/gallery/crimea_2019/12.jpg
+    - /assets/img/gallery/crimea_2019/13.jpg
+    - /assets/img/gallery/crimea_2019/14.jpg
+    - /assets/img/gallery/crimea_2019/15.jpg
+    - /assets/img/gallery/crimea_2019/16.jpg
+    - /assets/img/gallery/crimea_2019/17.jpg
+    - /assets/img/gallery/crimea_2019/18.jpg
+    - /assets/img/gallery/crimea_2019/19.jpg
+    - /assets/img/gallery/crimea_2019/20.jpg
+    - /assets/img/gallery/crimea_2019/21.jpg
+    - /assets/img/gallery/crimea_2019/22.jpg
+    - /assets/img/gallery/crimea_2019/23.jpg
+    - /assets/img/gallery/crimea_2019/24.jpg
 
 novogorsk20192021:
     alt: Novogorsk 2019-2021
