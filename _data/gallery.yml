@@ -44,6 +44,11 @@ sochi2020:
     - /assets/img/gallery/sochi_2020/19.JPG
     - /assets/img/gallery/sochi_2020/20.JPG
 
+tushino2017:
+    alt: Tushino 2017
+    urls:
+    - /assets/img/gallery/tushino_2017/1.jpg
+
 crimea2019:
     alt: Crimea 2019
     urls:
@@ -68,8 +73,52 @@ crimea2019:
     - /assets/img/gallery/crimea_2019/20.jpg
     - /assets/img/gallery/crimea_2019/21.jpg
     - /assets/img/gallery/crimea_2019/22.jpg
-    - /assets/img/gallery/crimea_2019/23.jpg
     - /assets/img/gallery/crimea_2019/24.jpg
+    - /assets/img/gallery/crimea_2019/23.jpg
+    - /assets/img/gallery/crimea_2019/25.jpg
+
+georgia2017:
+    alt: Georgia 2017
+    urls:
+    - /assets/img/gallery/georgia_2017/1.jpg
+    - /assets/img/gallery/georgia_2017/2.jpg
+    - /assets/img/gallery/georgia_2017/3.jpg
+    - /assets/img/gallery/georgia_2017/5.jpg
+    - /assets/img/gallery/georgia_2017/6.jpg
+    - /assets/img/gallery/georgia_2017/7.jpg
+    - /assets/img/gallery/georgia_2017/8.jpg
+    - /assets/img/gallery/georgia_2017/9.jpg
+    - /assets/img/gallery/georgia_2017/10.jpg
+    - /assets/img/gallery/georgia_2017/11.jpg
+    - /assets/img/gallery/georgia_2017/12.jpg
+    - /assets/img/gallery/georgia_2017/13.jpg
+    - /assets/img/gallery/georgia_2017/14.jpg
+    - /assets/img/gallery/georgia_2017/15.jpg
+    - /assets/img/gallery/georgia_2017/16.jpg
+    - /assets/img/gallery/georgia_2017/17.jpg
+    - /assets/img/gallery/georgia_2017/18.jpg
+    - /assets/img/gallery/georgia_2017/19.jpg
+    - /assets/img/gallery/georgia_2017/20.jpg
+    - /assets/img/gallery/georgia_2017/21.jpg
+    - /assets/img/gallery/georgia_2017/22.jpg
+    - /assets/img/gallery/georgia_2017/23.jpg
+    - /assets/img/gallery/georgia_2017/24.jpg
+    - /assets/img/gallery/georgia_2017/25.jpg
+    - /assets/img/gallery/georgia_2017/26.jpg
+    - /assets/img/gallery/georgia_2017/27.jpg
+    - /assets/img/gallery/georgia_2017/28.jpg
+    - /assets/img/gallery/georgia_2017/29.jpg
+    - /assets/img/gallery/georgia_2017/30.jpg
+    - /assets/img/gallery/georgia_2017/31.jpg
+    - /assets/img/gallery/georgia_2017/32.jpg
+    - /assets/img/gallery/georgia_2017/33.jpg
+    - /assets/img/gallery/georgia_2017/34.jpg
+    - /assets/img/gallery/georgia_2017/35.jpg
+    - /assets/img/gallery/georgia_2017/36.jpg
+    - /assets/img/gallery/georgia_2017/37.jpg
+    - /assets/img/gallery/georgia_2017/38.jpg
+    - /assets/img/gallery/georgia_2017/39.jpg
+    
 
 novogorsk20192021:
     alt: Novogorsk 2019-2021
