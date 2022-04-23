@@ -1,6 +1,6 @@
 ---
-title: Archive
-permalink: /archive/
+title: wiki
+permalink: /wiki/
 layout: page
 excerpt: All post.
 comments: false
@@ -15,7 +15,7 @@ comments: false
 
 <ul id="search-results"></ul>
 
-{%- for post in site.categories.archive -%}
+{%- for post in site.categories.wiki -%}
   {%- capture current_year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
   {%- unless current_year == previous_year -%}
     <h2>{{ current_year }}</h2>

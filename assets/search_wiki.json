@@ -3,7 +3,7 @@ layout: none
 ---
 
 [
-  {% for post in site.categories.archive %}
+  {% for post in site.categories.wiki %}
     {
       "title"    : "{{ post.title | escape }}",
       "description" : "{{ post.description | escape }}",

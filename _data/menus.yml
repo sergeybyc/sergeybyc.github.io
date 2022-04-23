@@ -6,6 +6,10 @@
   url: /archive/
   external: false
 
+- title: wiki
+  url: /wiki/
+  external: false
+
 - title: tags
   url: /tags/
   external: false

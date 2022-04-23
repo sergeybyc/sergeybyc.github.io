@@ -1,15 +1,25 @@
 // Fonts preferences
-$sans-family: Roboto, sans-serif;
-$mono-family: Consolas, monospace;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+// $sans-family: Roboto, sans-serif;
+$sans-family: Inter, sans-serif;
+// $mono-family: Consolas, monospace;
+$mono-family: Inter, monospace;
 $base-font-size: 16px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.85;
 
+code {
+  font-family: "Fira Code" !important;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+}
+
 // Font weight
 // $light-weight: 300; // uncomment if necessary
 $normal-weight: 400;
-$bold-weight: 700;
+$bold-weight: 800;
 // $black-weight: 900; // uncomment if necessary
 
 //Light Colors
@@ -24,7 +34,8 @@ $gray: #6b7886;
 $white: #fff;
 
 // Dark Colors
-$dark-text-base-color: #c7bebe;
+// $dark-text-base-color: #c7bebe;
+$dark-text-base-color: #ebebeb;
 $dark-text-link-blue: #ff5277;
 $dark-text-link-blue-active: #ff2957;
 
@@ -35,7 +46,9 @@ $dark-smoke: #4a4d56;
 $dark-gray: #767f87;
 
 // Width of the content area
+// $wide-size: 1100px;
 $wide-size: 890px;
+// $narrow-size: 1000px;
 $narrow-size: 720px;
 
 // Padding unit
