@@ -1,3 +1,6 @@
+Jekyll site with Klisé theme, with some modifications:
+- [x] Added gallery based on Masonry.js and Lazyload.js and fslightbox.js
+
 # Klisé
 
 Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
