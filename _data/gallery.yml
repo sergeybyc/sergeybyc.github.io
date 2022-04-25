@@ -13,6 +13,12 @@ anapa2019:
     - /assets/img/gallery/anapa_2019/6.JPG
     - /assets/img/gallery/anapa_2019/7.JPG
 
+lohinostrov2019:
+    alt: Lohin ostrov 2019
+    urls:
+    - /assets/img/gallery/lohinostrov_2019/1.jpg
+    - /assets/img/gallery/lohinostrov_2019/2.jpg
+
 kostomuksha:
     alt: kostomuksha
     urls:
