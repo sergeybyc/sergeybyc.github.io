@@ -1,5 +1,5 @@
 Jekyll site with Klisé theme, with some modifications:
-- [x] Added gallery based on Masonry.js and Lazyload.js and fslightbox.js
+- [x] Added gallery: integrated with Masonry.js and Lazyload.js and Fslightbox.js
 
 # Klisé
 
